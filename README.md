@@ -26,6 +26,15 @@ debugging, UI development, mathematical operations, raycasting.
 
 **[View Week 3 Materials](Week%2003/README.md)**
 
+## Guides
+
+Essential guides for setting up and working with this course:
+
+- **[Unity Setup](Guides/Unity%20Setup.md)** - Complete Unity installation and project setup guide
+- **[GitHub Setup](Guides/Github%20Setup.md)** - Setting up GitHub for version control and collaboration
+- **[GitHub Workflow](Guides/GitHub%20Workflow.md)** - Best practices for using Git and GitHub in your projects
+- **[Project File Structure](Guides/Project%20File%20Structure.md)** - Understanding Unity project organization and file management
+- **[XR Setup Guide](Week%2003/Activity%205%20-%20Getting%20Set%20Up%20for%20XR.md)** - Setting up Unity for Meta Quest 2/3 XR development
 
 ## Getting Started
 
