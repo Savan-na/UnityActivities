@@ -4,7 +4,7 @@ This repository contains teaching materials for DECO2300, organized by week with
 
 ## Course Overview
 
-DECO2300 introduces students to game development and interactive media through hands-on activities using Unity and other development tools.
+This course aims to build up your unity and XR skills.
 
 ## Weekly Content
 
@@ -18,6 +18,13 @@ Week 2 introduces students to Unity's core concepts through hands-on activities 
 from basic scene creation to interactive game mechanics.
 
 **[View Week 2 Materials](Week%2002/README.md)**
+
+### Week 3: Advanced Unity Concepts
+
+Week 3 builds upon the fundamentals learned in Week 2, introducing more advanced Unity concepts including 
+debugging, UI development, mathematical operations, raycasting, and XR preparation.
+
+**[View Week 3 Materials](Week%2003/README.md)**
 
 
 ## Getting Started
