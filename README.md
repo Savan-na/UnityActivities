@@ -22,7 +22,7 @@ from basic scene creation to interactive game mechanics.
 ### Week 3: Advanced Unity Concepts
 
 Week 3 builds upon the fundamentals learned in Week 2, introducing more advanced Unity concepts including 
-debugging, UI development, mathematical operations, raycasting, and XR preparation.
+debugging, UI development, mathematical operations, raycasting.
 
 **[View Week 3 Materials](Week%2003/README.md)**
 
