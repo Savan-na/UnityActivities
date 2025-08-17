@@ -26,6 +26,14 @@ debugging, UI development, mathematical operations, raycasting.
 
 **[View Week 3 Materials](Week%2003/README.md)**
 
+### Week 4: Interactive Object Systems
+
+Week 4 introduces students to advanced interaction systems including proximity-based reactions, object selection, 
+and physics-based object manipulation. This week builds upon the fundamentals learned in previous weeks and 
+introduces more complex game mechanics.
+
+**[View Week 4 Materials](Week%2004/README.md)**
+
 ## Guides
 
 Essential guides for setting up and working with this course:

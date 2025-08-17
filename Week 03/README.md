@@ -54,6 +54,10 @@ The following Unity-compatible C# scripts are included in the `Scripts/` directo
 - **[UsefulMath.cs](scripts/UsefulMath.cs)** - Mathematical operations and calculations
 - **[SimpleRaycast.cs](scripts/SimpleRaycast.cs)** - Line-of-sight and interaction systems
 
+## Additional Resources
+
+**[Class Activities](ClassActivities/README.md)** - Additional materials and examples used during class sessions, including advanced movement systems and video tutorials.
+
 ## Getting Started
 
 1. **Prerequisites**: Completion of Week 2 activities, Unity 2022.3 LTS or later
