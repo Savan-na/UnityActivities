@@ -39,6 +39,10 @@ The following Unity-compatible C# scripts are included in the `scripts/` directo
 - **[PlayerGrabberVelocity.cs](scripts/PlayerGrabberVelocity.cs)** - Velocity-based throwing mechanics
 - **[SimpleWASD.cs](scripts/SimpleWASD.cs)** - Player movement and rotation controls
 
+## Additional Resources
+
+**[Class Activities](../Week%2003/ClassActivities/README.md)** - Additional materials and examples used during class sessions, including advanced movement systems and video tutorials.
+
 ## Getting Started
 
 1. **Prerequisites**: Completion of Week 2 and Week 3 activities, Unity 2022.3 LTS or later
