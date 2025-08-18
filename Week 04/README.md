@@ -43,6 +43,12 @@ The following Unity-compatible C# scripts are included in the `scripts/` directo
 
 **[Class Activities](../Week%2003/ClassActivities/README.md)** - Additional materials and examples used during class sessions, including advanced movement systems and video tutorials.
 
+**[Lecture Example](LECTURE/README.md)** - A complete Unity project example demonstrating a hiking app prototype with proximity systems, player movement, and dynamic waypoints.
+
+**[Reference Slides](Slides/2024%20Week%2002%20Meta%20SDK.pptx)** - Alternative introduction to Meta SDK from last year's content.  
+**Note: These slides have not been updated for this year's curriculum and should be used with care.**   
+We will be learning Meta SDK in the coming weeks and you won't need to formally use Meta until the Week 9 Interactive Protortpe 2. 
+
 ## Getting Started
 
 1. **Prerequisites**: Completion of Week 2 and Week 3 activities, Unity 2022.3 LTS or later
