@@ -34,6 +34,12 @@ introduces more complex game mechanics.
 
 **[View Week 4 Materials](Week%2004/README.md)**
 
+### Week 5: XR Development Fundamentals
+
+Week 5 introduces students to XR (Extended Reality) development using Unity and Meta's Quest platform. This week focuses on setting up XR projects, configuring development environments, and implementing basic XR interactions using Meta's Building Blocks system.
+
+**[View Week 5 Materials](Week%2005/README.md)**
+
 ## Guides
 
 Essential guides for setting up and working with this course:
