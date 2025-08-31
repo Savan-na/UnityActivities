@@ -40,6 +40,12 @@ Week 5 introduces students to XR (Extended Reality) development using Unity and 
 
 **[View Week 5 Materials](Week%2005/README.md)**
 
+### Week 6: Advanced XR Interactions and Custom Transformers
+
+Week 6 builds upon the XR fundamentals from Week 5, introducing advanced interaction systems including gesture recognition, two-handed object manipulation, and custom transformer development. This week focuses on creating sophisticated XR experiences using Meta's Building Blocks system and extending it with custom code.
+
+**[View Week 6 Materials](Week%2006/README.md)**
+
 ## Guides
 
 Essential guides for setting up and working with this course:
