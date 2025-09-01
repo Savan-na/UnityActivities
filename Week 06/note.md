@@ -1,4 +1,4 @@
-
+## Course Note in week6
 Page 10: 
 1. immersive experience
 2. what is visable to user
@@ -18,3 +18,8 @@ Cathy Fang;Yang Zhang;Matthew Dworman;Chris Harrison – CHI 2020
 Page 20:
 organic interaction.
 
+Page 25:
+Cybersickness
+
+Page 33:
+how do we measure presence?
