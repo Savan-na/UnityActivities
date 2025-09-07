@@ -71,3 +71,7 @@ The following Unity-compatible C# scripts are included in the `Scripts/` directo
 - **Gesture Recognition** - Real-time hand pose analysis and response
 - **Custom Transformers** - Extensible interaction behavior system
 - **Constraint Management** - Fine-grained control over object manipulation
+
+## Additional Resources
+
+**[Lecture Example](Lecture/README.md)** - A complete Unity package demonstrating an XR version of the hiking app with Meta Building Blocks integration, hand tracking, gesture recognition, and custom transformers.
