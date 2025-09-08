@@ -46,6 +46,12 @@ Week 6 builds upon the XR fundamentals from Week 5, introducing advanced interac
 
 **[View Week 6 Materials](Week%2006/README.md)**
 
+### Week 7: XR Audio and Haptic Feedback
+
+Week 7 focuses on creating immersive XR experiences through spatial audio and haptic feedback systems. This week introduces Unity Event Wrappers, spatial audio implementation, and haptic feedback using Meta SDK building blocks.
+
+**[View Week 7 Materials](Week%2007/README.md)**
+
 ## Guides
 
 Essential guides for setting up and working with this course:
